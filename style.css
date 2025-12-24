@@ -1,0 +1,35 @@
+body {
+    background-color: #f4f4f4;
+}
+
+h1 {
+    text-align: center;
+}
+
+.color-box {
+    width: 100px;
+    height: 100px;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+
+.color1 {
+    background-color: #FF5733;
+    /* A reddish-orange color */
+}
+
+.color2 {
+    background-color: rgb(0, 0, 255);
+}
+
+.color3 {
+    background-color: green;
+}
+
+.color4 {
+    background-color: hsl(240, 100%, 20%);
+}
+
+.color5 {
+    background-color: purple;
+}
